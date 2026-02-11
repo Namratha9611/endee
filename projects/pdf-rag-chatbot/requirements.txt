@@ -1,0 +1,6 @@
+flask
+sentence-transformers
+numpy
+pypdf
+requests
+endee
